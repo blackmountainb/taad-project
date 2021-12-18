@@ -10,6 +10,7 @@ __pycache__/
 #Stuff
 set_a/
 set_b/
+set_a_cut/
 .ipynb_checkpoints
 
 # Distribution / packaging
