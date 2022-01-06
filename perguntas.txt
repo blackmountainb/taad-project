@@ -17,11 +17,12 @@ copy
 
 tarefas:
 
-Corrigir o treino: retirar o noiseS1
+Corrigir o treino: retirar o noiseS1  - feito
 
-Treino com 300 epochs
+Treino com 300 epochs - feito
+
 Grafico:
-- accuracy por epoch
+- accuracy por epoch - feito
 
 Correr apenas sobre um ficheiro com batimento normal
 
