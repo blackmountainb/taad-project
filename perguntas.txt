@@ -12,3 +12,27 @@ copy
 
 
 
+
+
+
+tarefas:
+
+Corrigir o treino: retirar o noiseS1
+
+Treino com 300 epochs
+Grafico:
+- accuracy por epoch
+
+Correr apenas sobre um ficheiro com batimento normal
+
+Fazer o grafico: 
+- batimentos
+
+Abrir o ficheiro no audicity e comparar com o gráf da linha 29.
+
+
+
+
+
+
+
