@@ -1,0 +1,14 @@
+1. Janelas: Nos pensamos definir uma janela estatica, em que para dar label de conteudo de cada janela, seria feito um efeito para comparar os extremos desta com a posição do sinal indicado nos csv de S1,S2 e N. O audio nao seria cortado, seria serapado e obtidos os coeficentes de mel para cada janela. Com os labels e os coeficientes, seria dirigido para o teste, o input da rede. É isto?
+E se a janela apanhar S1 e S2, como é que damos label nesses dados?
+
+2. Notamos que cada vez que a rede neural correu, a sua performance melhora (percentagem de acc). Os dados de treinos (w, b) pesos e offsets, permanecem após o treino? Ou so apos a limpeza da memoria apos o encerramento do programa?
+
+3. Porque é que cortamos os audios?
+
+4. Como treinar os audios inteiros com a janela inteira?
+
+5. Como é que podemos treinar audios sem label?x-special/nautilus-clipboard
+copy
+
+
+
