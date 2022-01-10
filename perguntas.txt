@@ -29,7 +29,20 @@ Correr apenas sobre um ficheiro com batimento normal
 Fazer o grafico: 
 - batimentos
 
-Abrir o ficheiro no audicity e comparar com o gráf da linha 29.
+Abrir o ficheiro no audicity e comparar com o gráf da linha 29. - feito
+
+Calcular a posição do S1 e S2 no gráfico 1 do plot of predictions
+
+Ajustar o gráfico para ficar com início igual ao do ficheiro do audacity (ou seja, S1 e S2 coincidem)
+
+Interpretar o gráfico 1
+
+Calcular o ritmo cardíaco para o S1 e para o S2 em separado
+(se der igual, o algoritmo é bom e está correto. Se der diferente, o algoritmo não é bom, ou o ritmo cardíaco não é normal).
+
+Optimizar a rede neural
+
+Reavaliar o número de MFCCs
 
 
 
