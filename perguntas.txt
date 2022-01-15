@@ -24,16 +24,16 @@ Treino com 300 epochs - feito
 Grafico:
 - accuracy por epoch - feito
 
-Correr apenas sobre um ficheiro com batimento normal
+Correr apenas sobre um ficheiro com batimento normal - feito
 
 Fazer o grafico: 
 - batimentos
 
 Abrir o ficheiro no audicity e comparar com o gráf da linha 29. - feito
 
-Calcular a posição do S1 e S2 no gráfico 1 do plot of predictions
+Calcular a posição do S1 e S2 no gráfico 1 do plot of predictions - feito
 
-Ajustar o gráfico para ficar com início igual ao do ficheiro do audacity (ou seja, S1 e S2 coincidem)
+Ajustar o gráfico para ficar com início igual ao do ficheiro do audacity (ou seja, S1 e S2 coincidem) - feito
 
 Interpretar o gráfico 1
 
