@@ -5,3 +5,7 @@ https://towardsdatascience.com/how-to-apply-machine-learning-and-deep-learning-m
 https://en.wikipedia.org/wiki/Heart_sounds
 https://www.kaggle.com/kinguistics/heartbeat-sounds
 https://www.peterjbentley.com/heartchallenge/
+
+Authors: 
+Beatriz Negromonte (negromontebs@gmail.com)
+Francisco Relvão
