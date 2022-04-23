@@ -9,3 +9,5 @@ https://www.peterjbentley.com/heartchallenge/
 Authors: 
 Beatriz Negromonte (negromontebs@gmail.com) and
 Francisco Relvão (franciscofrelvao@gmail.com)
+
+Oriented by Filipe Veloso (filipe.veloso@cern.ch)
