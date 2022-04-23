@@ -7,5 +7,5 @@ https://www.kaggle.com/kinguistics/heartbeat-sounds
 https://www.peterjbentley.com/heartchallenge/
 
 Authors: 
-Beatriz Negromonte (negromontebs@gmail.com)
-Francisco Relvão
+Beatriz Negromonte (negromontebs@gmail.com) and
+Francisco Relvão (franciscofrelvao@gmail.com)
